@@ -1,0 +1,72 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"17fba0de-eed7-4be4-8089-97743608a3f6\" name=\"Changes\" comment=\"Initial commit - AI Fake News Detector\">\n      <change afterPath=\"$PROJECT_DIR$/backend/node_modules/package.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/backend/server.js\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/frontend/css/style.css\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/frontend/index.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/frontend/js/app.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"37TpBnTDREUgVFaYC7DXQ1HEq80\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"dart.analysis.tool.window.visible\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"17fba0de-eed7-4be4-8089-97743608a3f6\" name=\"Changes\" comment=\"\" />\n      <created>1766936782341</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1766936782341</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0d0777ffd560d6fa2d4f4dfe1e11bdfe075d5dd7)
++++ b/.idea/workspace.xml	(date 1766940692116)
+@@ -1,14 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="17fba0de-eed7-4be4-8089-97743608a3f6" name="Changes" comment="Initial commit - AI Fake News Detector">
+-      <change afterPath="$PROJECT_DIR$/backend/node_modules/package.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/css/style.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/js/app.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="17fba0de-eed7-4be4-8089-97743608a3f6" name="Changes" comment="AI Fake News Detector" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -16,6 +9,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+@@ -36,6 +30,11 @@
+     "settings.editor.selected.configurable": "preferences.lookFeel"
+   }
+ }]]></component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/backend" />
++    </key>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -51,6 +50,15 @@
+       <option name="presentableId" value="Default" />
+       <updated>1766936782341</updated>
+     </task>
++    <task id="LOCAL-00001" summary="AI Fake News Detector">
++      <option name="closed" value="true" />
++      <created>1766940613661</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1766940613661</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -64,4 +72,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="AI Fake News Detector" />
++    <option name="LAST_COMMIT_MESSAGE" value="AI Fake News Detector" />
++  </component>
+ </project>
+\ No newline at end of file
